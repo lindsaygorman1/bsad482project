@@ -1,16 +1,22 @@
-# bsad482project
-BSAD 482
+# The Issues Surrounding Aging Populations in Rural Communities in Nova Scotia
+Lindsay Gorman
 
-The Issues Surrounding Aging Populations in Rural Communities in Nova Scotia
 
-**PROBLEM CONTEXT:**
+BSAD 482 - DECISION ANALYTICS
 
-Nova Scotia has one of the oldest populations in Canada. This is particularly due to rural areas experiencing particularly high rates of aging. The challenges that seniors face in communities include limited access to healthcare, social isolation, inadequate methods of public transportation, and a shortage of nursing and long-term care facilities. These issues can have immense effects on their quality of life, leading to increased hospitalization and reduced independence among our seniors. Understanding these challenges is critical for policymakers, healthcare providers, and community organizations aiming to improve the well-being of aging populations.
 
-Healthcare access is a major concern for seniors in Nova Scotia. Many rural communities lack nearby hospitals, specialized care, or at-home care services. It is not uncommon for seniors to need to travel long distances to receive medical attention, creating barriers to time-sensitive and effective care. Furthermore, social isolation is prevalent among rural seniors due to the dispersion of communities, and the limited public transportation that Nova Scotia offers. Social isolation is strongly correlated with mental health issues, including depression, anxiety, and increased risks of cognitive decline in our elders.
+# **Executive Summary:**
 
-Unlike urban centers with established public transit systems, many rural communities have limited transportation services. Seniors who are no longer able to drive may struggle to access essential services such as grocery stores, pharmacies, and their medical appointments. Additionally, the limited public transportation across NS is very costly and inconvenient, for example a one way trip on the Maritime bus is $50+. 
+Nova Scotia’s rural communities face significant aging-related challenges. Some of these challenges include limited access to healthcare, social isolation, lack of public transportation, and a shortage of accessible housing and long-term care facilities. Seniors often travel long distances for medical care, experience mental health impacts due to isolation, and struggle with costly, insufficient transit options. Many rural homes lack accessibility features, while long-term care waitlists force seniors to remain in unsuitable housing or relocate.
 
-Another challenge is our housing crisis, and the lack of accessible homes. Many rural homes are not designed for aging in place, lacking accessibility features such as wheelchair ramps, stairlifts, and walk-in showers. Furthermore, there are long wait times for long-term care facilities, forcing many seniors to either remain in unsuitable housing or relocate away from their communities to receive care.
+# **Key Performance Indicators (KPIs)**
 
-Overall, these issues require changes to be made in the province we call home. Changes in policies, increased investments in public services, and community support programs are vital to ensure our aging population has a safe place to grow old. 
+1. Healthcare Accessibility: Percentage of seniors  with access to healthcare facilities within a 30-minute drive.
+
+2. Social Isolation Rate: Percentage of seniors in rural communities who report feeling socially isolated or lonely.
+
+3. Long-Term Care Facilities: Average wait times and availability for placement in long-term care facilities in rural Nova Scotia.
+
+4. Access to Public Transportation: Percentage of seniors in rural communities with access to public or community-based transportation services.
+
+5. Accessible Housing Availability: Percentage of homes in rural communities with accessibility features for aging in place.
