@@ -1,11 +1,8 @@
 # The Issues Surrounding Aging Populations in Rural Communities in Nova Scotia
 *Lindsay Gorman*
 
-~~BSAD 482 - DECISION ANALYTICS~~<mark>If you put the course here, it looks like homework, but we want your portfolio to appear as though you self-started.
 
 ## Executive Summary
-
-<mark>No need to bold, let markdown hierarchy do it's thing.  someone already thought through the font weight and size.  Two # makes a sub-heading,  and 3 ### makes a sub-subheading</mark>
 
 Nova Scotia’s rural communities face significant aging-related challenges. Some of these challenges include limited access to healthcare, social isolation, lack of public transportation, and a shortage of accessible housing and long-term care facilities. Seniors often travel long distances for medical care, experience mental health impacts due to isolation, and struggle with costly, insufficient transit options. Many rural homes lack accessibility features, while long-term care waitlists force seniors to remain in unsuitable housing or relocate.
 
