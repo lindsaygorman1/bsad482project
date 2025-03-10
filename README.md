@@ -6,6 +6,8 @@
 
 Nova Scotia’s rural communities face significant aging-related challenges. Some of these challenges include limited access to healthcare, social isolation, lack of public transportation, and a shortage of accessible housing and long-term care facilities. Seniors often travel long distances for medical care, experience mental health impacts due to isolation, and struggle with costly, insufficient transit options. Many rural homes lack accessibility features, while long-term care waitlists force seniors to remain in unsuitable housing or relocate.
 
+READ MORE: https://github.com/lindsaygorman1/bsad482project/blob/52730c463446de9061aaa17e29fe4c731ad1add8/Background
+
 ## Key Performance Indicators (KPIs)
 
 1. Healthcare Accessibility: Percentage of seniors  with access to healthcare facilities within a 30-minute drive. Studies show that better access to healthcare is associated with improved health outcomes. If seniors can reach facilities quickly, they are more likely to attend regular check-ups, follow-ups, and preventive care. This reduces emergency visits and improves long-term health management (Andersen & Davidson, 2013).
