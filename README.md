@@ -17,7 +17,7 @@ READ MORE: https://github.com/lindsaygorman1/bsad482project/blob/52730c463446de9
     * Range: 1-100
     * Frequency: Annually
 
-2. Social Isolation Rate: Percentage of seniors in rural communities who report feeling socially isolated or lonely.Social isolation has been linked to increased risks of cognitive decline, mental health disorders, and chronic illnesses. Seniors with strong social connections tend to live longer, healthier lives and have lower rates of hospitalization (Holt-Lunstad et al., 2015).
+2. Social Isolation Rate: Percentage of seniors in rural communities who report feeling socially isolated or lonely. Social isolation has been linked to increased risks of cognitive decline, mental health disorders, and chronic illnesses. Seniors with strong social connections tend to live longer, healthier lives and have lower rates of hospitalization (Holt-Lunstad et al., 2015).
 
 3. Long-Term Care Facilities: Average wait times and availability for placement in long-term care facilities in rural Nova Scotia. Long wait times for long-term care facilities can lead to increased strain on hospitals and family caregivers. Timely access to long-term care improves quality of life for seniors and ensures they receive appropriate medical and personal care support (CIHI, 2023).
 
