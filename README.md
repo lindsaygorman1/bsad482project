@@ -1,5 +1,5 @@
 # The Issues Surrounding Aging Populations in Rural Communities in Nova Scotia
-*Lindsay Gorman*
+:sparkles: *Lindsay Gorman* :sparkles: 
 
 
 ## Executive Summary
