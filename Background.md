@@ -13,7 +13,6 @@ Another challenge is our housing crisis, and the lack of accessible homes. Many 
 Overall, these issues require changes to be made in the province we call home. Changes in policies, increased investments in public services, and community support programs are vital to ensure our aging population has a safe place to grow old. 
 
 ## Datasets
-<mark>provide direct links and I'll be able to help more - for example I can peek ahead to see if your kpis are in this data and if things look too hard, help you  simplify</mark>
 1. Statistics Canada. (2021). Census Profile: Age and population distribution in rural Nova Scotia. Retrieved from https://www.statcan.gc.ca
 
 2. Nova Scotia Health Authority. (2022). Healthcare Accessibility in Rural Nova Scotia: Services and Gaps. Retrieved from https://www.nshealth.ca
