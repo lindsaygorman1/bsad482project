@@ -27,10 +27,18 @@ READ MORE: https://github.com/lindsaygorman1/bsad482project/blob/52730c463446de9
 
 
 ## Analysis 
+### Accessible Homes
 From my datasets, I have created formulas that give me the % of accessible homes in their respective regions. This was calsulted by dividing the number of homes that have an elevator or chair lift by the number of homes with more than one level of floors. I calculated this by county. See results below. 
 
 <img width="805" alt="Screenshot 2025-04-04 at 10 25 06 AM" src="https://github.com/user-attachments/assets/ccb63556-99e9-4b2c-8631-cc52a432f402" />
 
 The low percentage of accessible homes for seniors in rural Nova Scotia is a significant concern, with no county surpassing 80% accessibility and some areas as low as 14%. This lack of accessible housing severely limits seniors’ ability to live independently and safely. Without features like ramps, stair lifts, or walk-in showers, seniors are at greater risk of falls and injuries, leading to increased reliance on caregivers or early admission into long-term care facilities. This places additional strain on healthcare services and contributes to overcrowding in hospitals and long-term care systems. Moreover, poor housing accessibility reduces quality of life, often resulting in isolation, depression, and a loss of dignity. It also hinders seniors’ ability to age in place—something most prefer—forcing many to relocate away from their communities and support systems. In rural areas where access to healthcare, transportation, and social services is already limited, the lack of accessible housing further deepens inequality and vulnerability among older adults. Addressing this issue is essential to support aging populations and reduce long-term systemic costs.
+
+## Analysis 
+### Distance to Hospital 
+For part 2 of my analysis, I created a map of Nova Scotia highlighting the locations of care homes and hospitals. Each care home is color-coded based on its proximity to the nearest hospital. If a care home is within 10 km of a hospital, it is considered to have good access and is marked in green. Locations that are between 10 and 25 km away are considered to have moderate access and are shown in orange. Any location more than 25 km from the nearest hospital is deemed to have limited access and is marked in red.
+<img width="617" alt="Screenshot 2025-04-04 at 12 44 00 PM" src="https://github.com/user-attachments/assets/cf77e773-4efa-44d4-afb9-5fc7dae91d9f" />
+
+The average distance of 20.11 km to the nearest hospital places most care home locations within a moderate range of accessibility. According to the healthcare accessibility KPI—defined as the percentage of seniors with access to healthcare facilities within a 30-minute drive—this distance is generally acceptable, particularly in rural and semi-rural areas of Nova Scotia. It suggests that a majority of seniors are likely able to reach a hospital within a reasonable time, which is associated with improved health outcomes. Research by Andersen & Davidson (2013) emphasizes that better access to healthcare increases the likelihood of attending regular check-ups, follow-ups, and preventive care appointments. This, in turn, reduces reliance on emergency services and supports long-term health management. However, while the average is promising, it may mask regional disparities. Some locations exceed 25 km from the nearest hospital, potentially limiting access for seniors without reliable transportation. Therefore, while the data indicates that many seniors meet the KPI target, additional attention may be needed to support those in more remote areas.
 
 
