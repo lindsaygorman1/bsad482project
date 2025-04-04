@@ -1,10 +1,12 @@
-Hi, and welcome to my findings and analysis on accessibility and and proximity to heakth care in Nova Scotia. Here is a summary of where you can find all of my work! 
+Welcome to my analysis on accessibility and proximity to healthcare in Nova Scotia.
+
+This report provides a comprehensive overview of my findings, highlighting key insights and data-driven conclusions. Below, you’ll find a clear summary of in which folder to locate each component of my work, from data exploration to visualizations and final assessments.
 
 ### Data: This includes the raw and edited versions of the spreadsheets that I used. 
 * Data 
 * Data.2 
 * Data.2 With Lindsay's Work 
-  * this includes my calculations and metrics for accessible housing. 
+  * This includes my calculations and metrics for accessible housing. 
 
 ### Visualizations:  Here you can find the following graphics I created. 
 * Corelation Matrix Heatmap 
@@ -16,5 +18,10 @@ Hi, and welcome to my findings and analysis on accessibility and and proximity t
 * Casual Inference
 
 ### Analysis: Here you can find my analysis of the above visualizations. 
+* Accessible Homes
+* Corelation Matrix Heatmap
+* Distance to Hospital
+* Data Analysis
+   * Includes Matitimes Aging Population, Number of Floors, and Elevator and Chair Lifts
 
 
