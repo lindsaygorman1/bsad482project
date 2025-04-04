@@ -1,0 +1,9 @@
+Distance to Hospital
+
+For part 2 of my analysis, I created a map of Nova Scotia highlighting the locations of care homes and hospitals. Each care home is color-coded based on its proximity to the nearest hospital. If a care home is within 10 km of a hospital, it is considered to have good access and is marked in green. Locations that are between 10 and 25 km away are considered to have moderate access and are shown in orange. Any location more than 25 km from the nearest hospital is deemed to have limited access and is marked in red. 
+
+
+<img width="709" alt="Screenshot 2025-04-04 at 3 02 44 PM" src="https://github.com/user-attachments/assets/2fa43fa9-100d-4ec6-bb20-2fbab728f5f4" />
+
+
+The average distance of 20.11 km to the nearest hospital places most care home locations within a moderate range of accessibility. According to the healthcare accessibility KPI—defined as the percentage of seniors with access to healthcare facilities within a 30-minute drive—this distance is generally acceptable, particularly in rural and semi-rural areas of Nova Scotia. It suggests that a majority of seniors are likely able to reach a hospital within a reasonable time, which is associated with improved health outcomes. Research by Andersen & Davidson (2013) emphasizes that better access to healthcare increases the likelihood of attending regular check-ups, follow-ups, and preventive care appointments. This, in turn, reduces reliance on emergency services and supports long-term health management. However, while the average is promising, it may mask regional disparities. Some locations exceed 25 km from the nearest hospital, potentially limiting access for seniors without reliable transportation. Therefore, while the data indicates that many seniors meet the KPI target, additional attention may be needed to support those in more remote areas.
